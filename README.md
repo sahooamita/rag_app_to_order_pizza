@@ -1,2 +1,2 @@
-# rag_app_to_order_pizza
-RAG app that locates your address and uses twilio api to order pizza
+## RAG to order pizza
+Tech used twilio, eleven labs, rag, finetunning
